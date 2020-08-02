@@ -1,1 +1,1 @@
-![my profile animation](artifacts/animation-hd.gif)
+![my profile animation](./artifacts/animation-hd.gif)
