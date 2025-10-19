@@ -8,10 +8,9 @@
 
 ## 🚀 About Me
 - 🌍 Digital nomad, engineer, and entrepreneur.  
-- 💻 Full-stack software engineer specializing in **.NET, Angular, NestJS, Azure, SQL Server, and DevOps pipelines**.  
+- 💻 Full-stack software engineer specializing in **.NET, Angular, NestJS, Azure**.  
 - 📱 Building cross-platform mobile apps with **.NET MAUI** and **React Native**.  
-- 🌐 Experienced in **SaaS, microservices, GIS, data collection platforms, and plugin-based architectures**.  
-- 🤝 Passionate about **AI-powered solutions, scalable system design, and helping NGOs & enterprises** digitize operations.  
+- 🌐 Experienced in building **SaaS, microservices, Geographical Information Systems**. 
 - 🌊 Fun fact: I’m a certified diver who codes between ocean adventures.
 
 ---
