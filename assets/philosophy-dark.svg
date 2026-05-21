@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-label="Engineering philosophy">
+  <title>Engineering philosophy</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0a0f"></stop>
+      <stop offset="1" stop-color="#0c0d16"></stop>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#13141d"></stop>
+      <stop offset="1" stop-color="#0f1020"></stop>
+    </linearGradient>
+    <linearGradient id="hi" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c8cff" stop-opacity="0.5"></stop>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"></stop>
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#262738"></circle>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"></rect>
+  <rect width="1280" height="360" fill="url(#dots)" opacity="0.5"></rect>
+
+  <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+    <text x="64" y="56" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="11" fill="#7c8cff" letter-spacing="3">05 / PHILOSOPHY</text>
+    <text x="64" y="92" font-size="28" font-weight="600" fill="#f0f0f5" letter-spacing="-0.6">How I build software</text>
+  </g>
+
+  
+  
+
+  
+  <g transform="translate(64, 132)">
+    <rect width="276" height="196" rx="14" fill="url(#card)" stroke="#26283a"></rect>
+    <rect x="1" y="1" width="274" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <text x="24" y="48" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#7c8cff" opacity="0.9">01</text>
+      <text x="24" y="100" font-size="17" font-weight="600" fill="#f0f0f5" letter-spacing="-0.3">Architect for change</text>
+      <text x="24" y="132" font-size="13" fill="#a0a1b8">Clean boundaries, explicit</text>
+      <text x="24" y="150" font-size="13" fill="#a0a1b8">contracts. Code that survives</text>
+      <text x="24" y="168" font-size="13" fill="#a0a1b8">three rewrites of the business.</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(364, 132)">
+    <rect width="276" height="196" rx="14" fill="url(#card)" stroke="#26283a"></rect>
+    <rect x="1" y="1" width="274" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <text x="24" y="48" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#7c8cff" opacity="0.9">02</text>
+      <text x="24" y="100" font-size="17" font-weight="600" fill="#f0f0f5" letter-spacing="-0.3">Tests are the spec</text>
+      <text x="24" y="132" font-size="13" fill="#a0a1b8">TDD where it earns its keep,</text>
+      <text x="24" y="150" font-size="13" fill="#a0a1b8">Playwright at the seams. Ship</text>
+      <text x="24" y="168" font-size="13" fill="#a0a1b8">with quiet confidence.</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(664, 132)">
+    <rect width="276" height="196" rx="14" fill="url(#card)" stroke="#26283a"></rect>
+    <rect x="1" y="1" width="274" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <text x="24" y="48" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#7c8cff" opacity="0.9">03</text>
+      <text x="24" y="100" font-size="17" font-weight="600" fill="#f0f0f5" letter-spacing="-0.3">Automate the boring</text>
+      <text x="24" y="132" font-size="13" fill="#a0a1b8">CI/CD pipelines, IaC, reusable</text>
+      <text x="24" y="150" font-size="13" fill="#a0a1b8">templates. Every manual step</text>
+      <text x="24" y="168" font-size="13" fill="#a0a1b8">is a future incident.</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(964, 132)">
+    <rect width="252" height="196" rx="14" fill="url(#card)" stroke="#26283a"></rect>
+    <rect x="1" y="1" width="250" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <text x="24" y="48" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#7c8cff" opacity="0.9">04</text>
+      <text x="24" y="100" font-size="17" font-weight="600" fill="#f0f0f5" letter-spacing="-0.3">Stay for the outcome</text>
+      <text x="24" y="132" font-size="13" fill="#a0a1b8">Engagements measured in</text>
+      <text x="24" y="150" font-size="13" fill="#a0a1b8">years, not sprints. Long-term</text>
+      <text x="24" y="168" font-size="13" fill="#a0a1b8">thinking, calm execution.</text>
+    </g>
+  </g>
+</svg>

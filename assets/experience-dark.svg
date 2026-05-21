@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 540" role="img" aria-label="Selected engagements">
+  <title>Selected engagements</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0a0f"></stop>
+      <stop offset="1" stop-color="#0c0d16"></stop>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#13141d"></stop>
+      <stop offset="1" stop-color="#0f1020"></stop>
+    </linearGradient>
+    <linearGradient id="hi" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c8cff" stop-opacity="0.5"></stop>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="statCard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1d3a"></stop>
+      <stop offset="1" stop-color="#1f1a3a"></stop>
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#262738"></circle>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="540" fill="url(#bg)"></rect>
+  <rect width="1280" height="540" fill="url(#dots)" opacity="0.5"></rect>
+
+  <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+    <text x="64" y="56" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="11" fill="#7c8cff" letter-spacing="3">04 / SELECTED ENGAGEMENTS</text>
+    <text x="64" y="92" font-size="28" font-weight="600" fill="#f0f0f5" letter-spacing="-0.6">A decade of independent enterprise work</text>
+    <text x="64" y="120" font-size="14" fill="#8a8ca3">Long-running engagements with teams across four continents.</text>
+  </g>
+
+  
+  
+  <g transform="translate(64, 158)">
+    <rect width="288" height="160" rx="14" fill="url(#card)" stroke="#26283a"></rect>
+    <rect x="1" y="1" width="286" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      
+      <circle cx="32" cy="32" r="3" fill="#34d399"></circle>
+      <circle cx="32" cy="32" r="6" fill="#34d399" opacity="0.2"></circle>
+      <text x="44" y="36" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="10" fill="#34d399" letter-spacing="2">ACTIVE · 2022 — NOW</text>
+
+      <text x="24" y="78" font-size="18" font-weight="600" fill="#f0f0f5" letter-spacing="-0.3">DA Systems</text>
+      <text x="24" y="100" font-size="13" fill="#a0a1b8">Full Stack Engineer · Contractor</text>
+
+      <line x1="24" y1="118" x2="264" y2="118" stroke="#26283a"></line>
+
+      <text x="24" y="140" font-size="12" fill="#8a8ca3">📍 High Wycombe, United Kingdom</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(376, 158)">
+    <rect width="288" height="160" rx="14" fill="url(#card)" stroke="#26283a"></rect>
+    <rect x="1" y="1" width="286" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <circle cx="32" cy="32" r="3" fill="#34d399"></circle>
+      <circle cx="32" cy="32" r="6" fill="#34d399" opacity="0.2"></circle>
+      <text x="44" y="36" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="10" fill="#34d399" letter-spacing="2">ACTIVE · 2020 — NOW</text>
+
+      <text x="24" y="78" font-size="18" font-weight="600" fill="#f0f0f5" letter-spacing="-0.3">Samaritan Ministries</text>
+      <text x="24" y="100" font-size="13" fill="#a0a1b8">Software Developer · Contractor</text>
+
+      <line x1="24" y1="118" x2="264" y2="118" stroke="#26283a"></line>
+
+      <text x="24" y="140" font-size="12" fill="#8a8ca3">📍 Peoria, Illinois, USA</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(688, 158)">
+    <rect width="288" height="160" rx="14" fill="url(#card)" stroke="#26283a"></rect>
+    <rect x="1" y="1" width="286" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <circle cx="32" cy="32" r="3" fill="#6b6d85"></circle>
+      <text x="44" y="36" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="10" fill="#6b6d85" letter-spacing="2">2020 — 2022</text>
+
+      <text x="24" y="78" font-size="18" font-weight="600" fill="#f0f0f5" letter-spacing="-0.3">Castille</text>
+      <text x="24" y="100" font-size="13" fill="#a0a1b8">Software Developer · Independent</text>
+
+      <line x1="24" y1="118" x2="264" y2="118" stroke="#26283a"></line>
+
+      <text x="24" y="140" font-size="12" fill="#8a8ca3">📍 Floriana, Malta</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(1000, 158)">
+    <rect width="216" height="160" rx="14" fill="url(#statCard)" stroke="#3a3556"></rect>
+    <rect x="1" y="1" width="214" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <text x="24" y="44" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="10" fill="#a78bfa" letter-spacing="2">SINCE 2014</text>
+      <text x="24" y="100" font-size="48" font-weight="700" fill="#f0f0f5" letter-spacing="-2">10+</text>
+      <text x="24" y="124" font-size="13" fill="#cfd2e4">years building</text>
+      <text x="24" y="142" font-size="13" fill="#cfd2e4">enterprise software</text>
+    </g>
+  </g>
+
+  
+  
+  <g transform="translate(64, 336)">
+    <rect width="288" height="160" rx="14" fill="url(#card)" stroke="#26283a"></rect>
+    <rect x="1" y="1" width="286" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <circle cx="32" cy="32" r="3" fill="#6b6d85"></circle>
+      <text x="44" y="36" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="10" fill="#6b6d85" letter-spacing="2">2018 — 2020</text>
+
+      <text x="24" y="78" font-size="18" font-weight="600" fill="#f0f0f5" letter-spacing="-0.3">Imaging Solutions</text>
+      <text x="24" y="100" font-size="13" fill="#a0a1b8">Implementation &amp; Support Developer</text>
+
+      <line x1="24" y1="118" x2="264" y2="118" stroke="#26283a"></line>
+
+      <text x="24" y="140" font-size="12" fill="#8a8ca3">📍 Harare, Zimbabwe</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(376, 336)">
+    <rect width="288" height="160" rx="14" fill="url(#card)" stroke="#26283a"></rect>
+    <rect x="1" y="1" width="286" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <circle cx="32" cy="32" r="3" fill="#6b6d85"></circle>
+      <text x="44" y="36" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="10" fill="#6b6d85" letter-spacing="2">2014 — 2018</text>
+
+      <text x="24" y="78" font-size="18" font-weight="600" fill="#f0f0f5" letter-spacing="-0.3">Integral-Edge Systems</text>
+      <text x="24" y="100" font-size="13" fill="#a0a1b8">Systems Developer &amp; GIS Specialist</text>
+
+      <line x1="24" y1="118" x2="264" y2="118" stroke="#26283a"></line>
+
+      <text x="24" y="140" font-size="12" fill="#8a8ca3">📍 Harare, Zimbabwe</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(688, 336)">
+    <rect width="288" height="160" rx="14" fill="url(#statCard)" stroke="#3a3556"></rect>
+    <rect x="1" y="1" width="286" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <text x="24" y="44" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="10" fill="#7c8cff" letter-spacing="2">CERTIFICATIONS</text>
+      <text x="24" y="86" font-size="15" font-weight="600" fill="#f0f0f5">Azure Solutions Architect</text>
+      <text x="24" y="106" font-size="13" fill="#a0a1b8">Microsoft · Expert · 2023</text>
+
+      <line x1="24" y1="122" x2="264" y2="122" stroke="#3a3556"></line>
+
+      <text x="24" y="142" font-size="14" font-weight="500" fill="#cfd2e4">MCSD: App Builder · 2019</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(1000, 336)">
+    <rect width="216" height="160" rx="14" fill="url(#statCard)" stroke="#3a3556"></rect>
+    <rect x="1" y="1" width="214" height="1" rx="0.5" fill="url(#hi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <text x="24" y="44" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="10" fill="#a78bfa" letter-spacing="2">REACH</text>
+      <text x="24" y="100" font-size="48" font-weight="700" fill="#f0f0f5" letter-spacing="-2">4</text>
+      <text x="24" y="124" font-size="13" fill="#cfd2e4">countries served</text>
+      <text x="24" y="142" font-size="13" fill="#8a8ca3">UK · USA · Malta · ZW</text>
+    </g>
+  </g>
+</svg>

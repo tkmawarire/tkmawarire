@@ -1,77 +1,140 @@
-# 👋 Hi, I'm Takudzwa Mawarire  
+<!--
+  README.md — tkmawarire/tkmawarire
+  ─────────────────────────────────────────────────────────
+  Premium dark-first GitHub profile, fully responsive on both
+  desktop and mobile, with light/dark mode handled by the
+  <picture> tag and prefers-color-scheme.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://my.linkedin.com/in/takudzwa-kain-mawarire)
-[![Website](https://img.shields.io/badge/Website-Visit-0a66c2?logo=azuredevops&logoColor=white)](https://takudzwa.azurewebsites.net/)
-![Profile Views](https://komarev.com/ghpvc/?username=tkmawarire&color=brightgreen)
+  Design notes:
+    · All hero/section visuals are local SVGs under /assets
+      (no external CDNs, no JS, no iframes — fully GitHub-safe).
+    · Native SVG <text> elements only; no <foreignObject>, so
+      rendering is identical across GitHub's image proxy and
+      all browsers.
+    · A single external service is used: github-readme-stats
+      (Vercel), themed to match the rest of the page.
+    · Markdown links sit below each visual section so screen
+      readers and link-clickers both get real content.
+-->
 
----
+<!-- ─── Hero ────────────────────────────────────────────── -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+    <img alt="Takudzwa Mawarire — Azure Solutions Architect &amp; Software Engineer" src="assets/hero-dark.svg" width="100%">
+  </picture>
+</p>
 
-## 🚀 About Me
-- 🌍 Digital nomad, engineer, and entrepreneur.  
-- 💻 Full-stack software engineer specializing in **.NET, Angular, NestJS, Azure**.  
-- 📱 Building cross-platform mobile apps with **.NET MAUI** and **React Native**.  
-- 🌐 Experienced in building **SaaS, microservices, Geographical Information Systems**. 
-- 🌊 Fun fact: I’m a certified diver who codes between ocean adventures.
+<p align="center">
+  <a href="https://www.linkedin.com/in/takudzwamawarire/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-7c8cff?style=flat-square&logo=linkedin&logoColor=white&labelColor=13141d">
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/TakudzwaMawarire140792/DE6B5191E731CB84?sharingId">
+    <img alt="Azure Solutions Architect Expert" src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Architect%20Expert-a78bfa?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=13141d">
+  </a>
+  <a href="https://takudzwa.azurewebsites.net">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-takudzwa.azurewebsites.net-cfd2e4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=13141d">
+  </a>
+  <a href="mailto:takudzwamawarire7@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-takudzwamawarire7%40gmail.com-cfd2e4?style=flat-square&logo=maildotru&logoColor=white&labelColor=13141d">
+  </a>
+</p>
 
----
+<br>
 
-## 🛠 Tech Stack
+<!-- ─── Intro paragraph ─────────────────────────────────── -->
+<p align="center" width="100%">
+  <em>Independent software engineer and Azure Solutions Architect. I design,<br>
+  build and maintain enterprise-grade systems and SaaS platforms for clients<br>
+  in the UK, US and Europe — with a calm, long-term approach to delivery.</em>
+</p>
 
-**Languages & Frameworks**  
-`C#` · `.NET Core` · `.NET MAUI` · `Angular` · `React Native` · `Blazor` · `TypeScript` · `NestJS` · `Python`
+<br>
 
-**Cloud & DevOps**  
-`Azure (App Service, Container Apps, NAT Gateway, Bastion)` · `Azure DevOps` · `GitHub Actions` · `GitLab CI` · `Octopus Deploy` · `Docker` · `Kubernetes`
+<!-- ─── Capabilities ────────────────────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/capabilities-light.svg">
+  <img alt="Technical capabilities: .NET, Azure, Angular, DevOps, Data, Quality" src="assets/capabilities-dark.svg" width="100%">
+</picture>
 
-**Data & Integration**  
-`SQL Server` · `PostgreSQL` · `EF Core` · `SignalR` · `GIS / Spatial Data` · `Change Tracking` · `Message Queues`
+<br>
 
----
+<!-- ─── Currently building ──────────────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/focus-light.svg">
+  <img alt="Currently building: cloud-native enterprise platforms and SaaS for logistics and location-aware operations" src="assets/focus-dark.svg" width="100%">
+</picture>
 
-## 📌 Featured Projects
+<br>
 
-<details>
-  <summary>🛠 ToolJet Next-Gen Mobile-First Builder</summary>
-  <br/>
-  🔗 [neofenyx/tooljet](https://github.com/neofenyx/tooljet)  
-  📱 The **next-gen mobile-first enterprise data collection platform builder** built on top of the open-source ToolJet framework.  
-  - Extends ToolJet with **offline-first mobile capabilities**  
-  - Targets NGOs and enterprises needing **customizable monitoring & evaluation tools**  
-  - Combines **AI-assisted generation** with **intuitive drag-and-drop UI**
-</details>
+<!-- ─── Selected engagements ────────────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg">
+  <img alt="Selected engagements: DA Systems UK, Samaritan Ministries USA, Castille Malta, Imaging Solutions Zimbabwe, Integral-Edge Zimbabwe" src="assets/experience-dark.svg" width="100%">
+</picture>
 
-<details>
-  <summary>🌍 NGO Data-Collection Suite</summary>
-  <br/>
-  📱 Cross-platform mobile + web suite for field data collection and SDG indicator tracking.  
-  Built with **.NET MAUI**, **React Native components**, **Angular**, and **GIS dashboards**.
-</details>
+<br>
 
-<details>
-  <summary>⚡ AI-Powered Analytics</summary>
-  <br/>
-  🤖 AI integration (OpenAI/Anthropic) for natural-language SQL querying and reporting,  
-  embedded into enterprise dashboards and mobile workflows.
-</details>
+<!-- ─── Engineering philosophy ──────────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/philosophy-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/philosophy-light.svg">
+  <img alt="Engineering philosophy: architect for change, tests are the spec, automate the boring, stay for the outcome" src="assets/philosophy-dark.svg" width="100%">
+</picture>
 
----
+<br>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkmawarire&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmawarire&layout=compact&theme=tokyonight)
+<!-- ─── GitHub stats ────────────────────────────────────── -->
+<h3 align="center">
+  <sub><code>06 / GITHUB ACTIVITY</code></sub>
+</h3>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tkmawarire&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=7c8cff&icon_color=a78bfa&text_color=a0a1b8&ring_color=7c8cff&hide=contribs">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tkmawarire&show_icons=true&hide_border=true&bg_color=ffffff&title_color=5b6cff&icon_color=7c5cf0&text_color=4a4b65&ring_color=5b6cff&hide=contribs" height="180">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tkmawarire&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=7c8cff&text_color=a0a1b8&langs_count=8">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkmawarire&layout=compact&hide_border=true&bg_color=ffffff&title_color=5b6cff&text_color=4a4b65&langs_count=8" height="180">
+  </picture>
+</p>
 
-## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmawarire&repo=tooljet&theme=tokyonight)](https://github.com/neofenyx/tooljet)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmawarire&repo=<replace-with-repo>&theme=tokyonight)](https://github.com/tkmawarire/<replace-with-repo>)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tkmawarire&hide_border=true&background=0a0a0f&stroke=26283a&ring=7c8cff&fire=a78bfa&currStreakLabel=7c8cff&sideLabels=a0a1b8&currStreakNum=f0f0f5&sideNums=f0f0f5&dates=8a8ca3">
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tkmawarire&hide_border=true&background=ffffff&stroke=e5e6ee&ring=5b6cff&fire=7c5cf0&currStreakLabel=5b6cff&sideLabels=4a4b65&currStreakNum=0a0a14&sideNums=0a0a14&dates=8e90a8" height="180">
+  </picture>
+</p>
 
----
+<br>
 
-## 🌐 Connect
-- 🔗 [LinkedIn](https://my.linkedin.com/in/takudzwa-kain-mawarire)  
-- 🌍 [Website](https://takudzwa.azurewebsites.net/)  
+<!-- ─── Connect ─────────────────────────────────────────── -->
+<h3 align="center">
+  <sub><code>07 / GET IN TOUCH</code></sub>
+</h3>
 
----
+<p align="center">
+  <strong>Currently accepting select independent engagements.</strong><br>
+  <sub>Long-term enterprise builds · Azure architecture reviews · SaaS product engineering</sub>
+</p>
 
-💡 *“Building systems that scale, empower people, and sometimes let me code from the beach.”*
+<p align="center">
+  <a href="https://www.linkedin.com/in/takudzwamawarire/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://takudzwa.azurewebsites.net">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:takudzwamawarire7@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/tkmawarire">GitHub</a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub><code>// Harare, Zimbabwe · UTC+2 · Engaging clients globally since 2014</code></sub>
+</p>
