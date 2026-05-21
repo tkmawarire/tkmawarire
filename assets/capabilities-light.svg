@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 620" role="img" aria-label="Technical capabilities">
+  <title>Technical capabilities</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"></stop>
+      <stop offset="1" stop-color="#f7f8fc"></stop>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbfbfd50" stop-opacity="0.9"></stop>
+      <stop offset="1" stop-color="#f5f6fa80" stop-opacity="0.9"></stop>
+    </linearGradient>
+    <linearGradient id="cardHi" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5b6cff" stop-opacity="0.5"></stop>
+      <stop offset="0.5" stop-color="#7c5cf0" stop-opacity="0.25"></stop>
+      <stop offset="1" stop-color="#5b6cff" stop-opacity="0"></stop>
+    </linearGradient>
+    <radialGradient id="cardGlow" cx="0.1" cy="0" r="0.7">
+      <stop offset="0" stop-color="#5b6cff" stop-opacity="0.10"></stop>
+      <stop offset="1" stop-color="#5b6cff" stop-opacity="0"></stop>
+    </radialGradient>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#e9eaf2"></circle>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="620" fill="url(#bg)"></rect>
+  <rect width="1280" height="620" fill="url(#dots)" opacity="0.5"></rect>
+
+  
+  <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+    <text x="64" y="60" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="11" fill="#5b6cff" letter-spacing="3">02 / CAPABILITIES</text>
+    <text x="64" y="100" font-size="32" font-weight="600" fill="#0a0a14" letter-spacing="-0.8">Technical depth across the stack</text>
+    <text x="64" y="128" font-size="15" fill="#4a4b65">A focused toolkit refined over a decade of independent enterprise work.</text>
+  </g>
+
+  
+  
+
+  
+  <g transform="translate(64, 170)">
+    <rect width="384" height="200" rx="14" fill="#ffffff" stroke="#e5e6ee" stroke-width="1"></rect>
+    <rect width="384" height="200" rx="14" fill="url(#cardGlow)"></rect>
+    <rect x="1" y="1" width="382" height="1" rx="0.5" fill="url(#cardHi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      
+      <g transform="translate(28, 28)">
+        <rect width="36" height="36" rx="9" fill="#f7f8fc" stroke="#d8dbeb"></rect>
+        <path d="M 11 12 L 11 24 M 11 12 L 18 24 M 18 12 L 18 24 M 22 12 L 28 12 M 25 12 L 25 24 M 22 24 L 28 24" stroke="#7c5cf0" stroke-width="1.8" stroke-linecap="round" fill="none"></path>
+      </g>
+      <text x="28" y="106" font-size="11" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" fill="#8e90a8" letter-spacing="2">01 / BACKEND</text>
+      <text x="28" y="132" font-size="20" font-weight="600" fill="#0a0a14" letter-spacing="-0.4">.NET &amp; C# Engineering</text>
+      <text x="28" y="158" font-size="13" fill="#4a4b65">ASP.NET Core APIs, .NET Aspire</text>
+      <text x="28" y="176" font-size="13" fill="#4a4b65">microservices, EF Core, MediatR.</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(472, 170)">
+    <rect width="384" height="200" rx="14" fill="#ffffff" stroke="#e5e6ee" stroke-width="1"></rect>
+    <rect width="384" height="200" rx="14" fill="url(#cardGlow)"></rect>
+    <rect x="1" y="1" width="382" height="1" rx="0.5" fill="url(#cardHi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <g transform="translate(28, 28)">
+        <rect width="36" height="36" rx="9" fill="#f7f8fc" stroke="#d8dbeb"></rect>
+        <path d="M 9 24 C 8 24 7 23 7 21 C 7 18.5 9 17 11 17 C 11 14.5 13 12 16 12 C 18.5 12 20.5 13.5 21 15.5 C 21.5 15 22.5 14.5 23.5 14.5 C 25.5 14.5 27 16 27 18 C 28.5 18 30 19 30 21 C 30 23 28.5 24 27 24 Z" fill="#5b6cff"></path>
+      </g>
+      <text x="28" y="106" font-size="11" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" fill="#8e90a8" letter-spacing="2">02 / CLOUD</text>
+      <text x="28" y="132" font-size="20" font-weight="600" fill="#0a0a14" letter-spacing="-0.4">Azure Architecture</text>
+      <text x="28" y="158" font-size="13" fill="#4a4b65">App Services, Functions, Service Bus,</text>
+      <text x="28" y="176" font-size="13" fill="#4a4b65">Container Apps, Cosmos, Storage.</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(880, 170)">
+    <rect width="336" height="200" rx="14" fill="#ffffff" stroke="#e5e6ee" stroke-width="1"></rect>
+    <rect width="336" height="200" rx="14" fill="url(#cardGlow)"></rect>
+    <rect x="1" y="1" width="334" height="1" rx="0.5" fill="url(#cardHi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <g transform="translate(28, 28)">
+        <rect width="36" height="36" rx="9" fill="#f7f8fc" stroke="#d8dbeb"></rect>
+        <path d="M 8 14 L 18 9 L 28 14 L 26 24 L 18 28 L 10 24 Z" fill="none" stroke="#7c5cf0" stroke-width="1.6" stroke-linejoin="round"></path>
+        <path d="M 14 22 L 18 13 L 22 22 M 15.5 20 L 20.5 20" stroke="#0a0a14" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+      </g>
+      <text x="28" y="106" font-size="11" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" fill="#8e90a8" letter-spacing="2">03 / FRONTEND</text>
+      <text x="28" y="132" font-size="20" font-weight="600" fill="#0a0a14" letter-spacing="-0.4">Angular &amp; TypeScript</text>
+      <text x="28" y="158" font-size="13" fill="#4a4b65">Reactive UIs, RxJS, signals,</text>
+      <text x="28" y="176" font-size="13" fill="#4a4b65">Kendo UI, accessible components.</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(64, 394)">
+    <rect width="384" height="200" rx="14" fill="#ffffff" stroke="#e5e6ee" stroke-width="1"></rect>
+    <rect width="384" height="200" rx="14" fill="url(#cardGlow)"></rect>
+    <rect x="1" y="1" width="382" height="1" rx="0.5" fill="url(#cardHi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <g transform="translate(28, 28)">
+        <rect width="36" height="36" rx="9" fill="#f7f8fc" stroke="#d8dbeb"></rect>
+        <circle cx="18" cy="13" r="2.4" fill="#5b6cff"></circle>
+        <circle cx="11" cy="23" r="2.4" fill="#5b6cff"></circle>
+        <circle cx="25" cy="23" r="2.4" fill="#5b6cff"></circle>
+        <path d="M 18 15.4 L 18 18 L 11 23 M 18 18 L 25 23 M 13 23 L 23 23" stroke="#7c5cf0" stroke-width="1.4" fill="none" stroke-linecap="round"></path>
+      </g>
+      <text x="28" y="106" font-size="11" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" fill="#8e90a8" letter-spacing="2">04 / DEVOPS</text>
+      <text x="28" y="132" font-size="20" font-weight="600" fill="#0a0a14" letter-spacing="-0.4">CI/CD &amp; Automation</text>
+      <text x="28" y="158" font-size="13" fill="#4a4b65">GitHub Actions, Docker, Bicep,</text>
+      <text x="28" y="176" font-size="13" fill="#4a4b65">reusable pipelines, infra-as-code.</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(472, 394)">
+    <rect width="384" height="200" rx="14" fill="#ffffff" stroke="#e5e6ee" stroke-width="1"></rect>
+    <rect width="384" height="200" rx="14" fill="url(#cardGlow)"></rect>
+    <rect x="1" y="1" width="382" height="1" rx="0.5" fill="url(#cardHi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <g transform="translate(28, 28)">
+        <rect width="36" height="36" rx="9" fill="#f7f8fc" stroke="#d8dbeb"></rect>
+        <ellipse cx="18" cy="12" rx="9" ry="3" fill="none" stroke="#5b6cff" stroke-width="1.6"></ellipse>
+        <path d="M 9 12 L 9 24 C 9 25.7 13 27 18 27 C 23 27 27 25.7 27 24 L 27 12" fill="none" stroke="#5b6cff" stroke-width="1.6"></path>
+        <path d="M 9 18 C 9 19.7 13 21 18 21 C 23 21 27 19.7 27 18" fill="none" stroke="#5b6cff" stroke-width="1.6"></path>
+      </g>
+      <text x="28" y="106" font-size="11" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" fill="#8e90a8" letter-spacing="2">05 / DATA</text>
+      <text x="28" y="132" font-size="20" font-weight="600" fill="#0a0a14" letter-spacing="-0.4">SQL &amp; Spatial Data</text>
+      <text x="28" y="158" font-size="13" fill="#4a4b65">SQL Server, query design, EF Core,</text>
+      <text x="28" y="176" font-size="13" fill="#4a4b65">spatial &amp; geospatial workloads.</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(880, 394)">
+    <rect width="336" height="200" rx="14" fill="#ffffff" stroke="#e5e6ee" stroke-width="1"></rect>
+    <rect width="336" height="200" rx="14" fill="url(#cardGlow)"></rect>
+    <rect x="1" y="1" width="334" height="1" rx="0.5" fill="url(#cardHi)"></rect>
+    <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+      <g transform="translate(28, 28)">
+        <rect width="36" height="36" rx="9" fill="#f7f8fc" stroke="#d8dbeb"></rect>
+        <path d="M 11 11 L 11 17 L 8 23 C 7 25 8 26 10 26 L 26 26 C 28 26 29 25 28 23 L 25 17 L 25 11 Z" fill="none" stroke="#7c5cf0" stroke-width="1.6" stroke-linejoin="round"></path>
+        <path d="M 11 11 L 25 11 M 14 22 L 22 22" stroke="#7c5cf0" stroke-width="1.6" stroke-linecap="round"></path>
+        <circle cx="16" cy="18" r="1" fill="#7c5cf0"></circle>
+        <circle cx="20" cy="20" r="1" fill="#7c5cf0"></circle>
+      </g>
+      <text x="28" y="106" font-size="11" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" fill="#8e90a8" letter-spacing="2">06 / QUALITY</text>
+      <text x="28" y="132" font-size="20" font-weight="600" fill="#0a0a14" letter-spacing="-0.4">Testing &amp; Architecture</text>
+      <text x="28" y="158" font-size="13" fill="#4a4b65">TDD, Playwright E2E, code reviews,</text>
+      <text x="28" y="176" font-size="13" fill="#4a4b65">clean architecture, DDD patterns.</text>
+    </g>
+  </g>
+</svg>

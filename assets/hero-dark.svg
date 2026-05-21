@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" role="img" aria-label="Takudzwa Mawarire — Azure Solutions Architect &amp; Software Engineer">
+  <title>Takudzwa Mawarire — Azure Solutions Architect &amp; Software Engineer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0a0f"></stop>
+      <stop offset="1" stop-color="#0d0e1a"></stop>
+    </linearGradient>
+    <radialGradient id="orb1" cx="0.85" cy="0.15" r="0.55">
+      <stop offset="0" stop-color="#7c8cff" stop-opacity="0.32"></stop>
+      <stop offset="0.6" stop-color="#7c8cff" stop-opacity="0.05"></stop>
+      <stop offset="1" stop-color="#7c8cff" stop-opacity="0"></stop>
+    </radialGradient>
+    <radialGradient id="orb2" cx="0.1" cy="0.9" r="0.5">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.22"></stop>
+      <stop offset="0.6" stop-color="#a78bfa" stop-opacity="0.04"></stop>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"></stop>
+    </radialGradient>
+    <pattern id="grid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1c1d2c" stroke-width="0.8"></path>
+    </pattern>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f5f5fa"></stop>
+      <stop offset="0.7" stop-color="#e8e8f2"></stop>
+      <stop offset="1" stop-color="#b8b9d4"></stop>
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c8cff"></stop>
+      <stop offset="1" stop-color="#a78bfa"></stop>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c8cff" stop-opacity="0.6"></stop>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0.2"></stop>
+    </linearGradient>
+    <filter id="nodeGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"></feGaussianBlur>
+    </filter>
+  </defs>
+
+  
+  <rect width="1280" height="440" fill="url(#bg)"></rect>
+  <rect width="1280" height="440" fill="url(#grid)" opacity="0.45"></rect>
+  <rect width="1280" height="440" fill="url(#orb1)"></rect>
+  <rect width="1280" height="440" fill="url(#orb2)"></rect>
+
+  
+  <line x1="64" y1="56" x2="200" y2="56" stroke="#7c8cff" stroke-width="1.5"></line>
+  <line x1="64" y1="56" x2="64" y2="48" stroke="#7c8cff" stroke-width="1.5"></line>
+
+  
+  <g font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace">
+    <text x="64" y="78" font-size="12" fill="#7c8cff" letter-spacing="3">PROFILE / INDEPENDENT ENGINEER</text>
+  </g>
+
+  
+  <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif">
+    <text x="64" y="180" font-size="72" font-weight="700" fill="url(#nameGrad)" letter-spacing="-2">Takudzwa Mawarire</text>
+    <text x="64" y="222" font-size="22" font-weight="400" fill="#a0a1b8" letter-spacing="-0.3">Azure Solutions Architect · Software Engineer · Product Builder</text>
+
+    
+    <text x="64" y="276" font-size="17" font-weight="400" fill="#8a8ca3" letter-spacing="-0.1">Building enterprise-grade systems &amp; SaaS platforms for clients across</text>
+    <text x="64" y="298" font-size="17" font-weight="400" fill="#8a8ca3" letter-spacing="-0.1">the UK, US and Europe — independently, since 2014.</text>
+  </g>
+
+  
+  <g font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="13">
+    
+    <g transform="translate(64, 348)">
+      <rect width="210" height="32" rx="16" fill="#0f1322" stroke="#26425a" stroke-width="1"></rect>
+      <circle cx="18" cy="16" r="4" fill="#34d399"></circle>
+      <circle cx="18" cy="16" r="7" fill="#34d399" opacity="0.25"></circle>
+      <text x="34" y="20" fill="#cfd2e4">Available for engagements</text>
+    </g>
+    
+    <g transform="translate(284, 348)">
+      <rect width="196" height="32" rx="16" fill="#13141d" stroke="#26283a" stroke-width="1"></rect>
+      <path d="M 18 9 C 14.7 9 12 11.7 12 15 C 12 19.5 18 25 18 25 C 18 25 24 19.5 24 15 C 24 11.7 21.3 9 18 9 Z M 18 17.3 C 16.7 17.3 15.7 16.3 15.7 15 C 15.7 13.7 16.7 12.7 18 12.7 C 19.3 12.7 20.3 13.7 20.3 15 C 20.3 16.3 19.3 17.3 18 17.3 Z" fill="#a0a1b8"></path>
+      <text x="34" y="20" fill="#a0a1b8">Harare, Zimbabwe · UTC+2</text>
+    </g>
+    
+    <g transform="translate(498, 348)">
+      <rect width="254" height="32" rx="16" fill="#13141d" stroke="#3a3556" stroke-width="1"></rect>
+      <path d="M 18 10 L 24 13 L 24 17 C 24 20.5 21.5 23.5 18 24.5 C 14.5 23.5 12 20.5 12 17 L 12 13 Z" fill="#a78bfa" opacity="0.85"></path>
+      <path d="M 15.5 16.5 L 17.5 18.5 L 21 15" stroke="#0a0a0f" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+      <text x="34" y="20" fill="#cfd2e4">Microsoft Certified · Azure Architect Expert</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(820, 90)">
+    
+    <text x="0" y="-6" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="11" fill="#5d6080" letter-spacing="2">SYSTEM_TOPOLOGY.svg</text>
+
+    
+    <g stroke="url(#lineGrad)" stroke-width="1" fill="none" opacity="0.7">
+      <line x1="60" y1="60" x2="200" y2="30"></line>
+      <line x1="60" y1="60" x2="180" y2="130"></line>
+      <line x1="60" y1="60" x2="40" y2="180"></line>
+      <line x1="200" y1="30" x2="340" y2="80"></line>
+      <line x1="200" y1="30" x2="180" y2="130"></line>
+      <line x1="180" y1="130" x2="340" y2="80"></line>
+      <line x1="180" y1="130" x2="290" y2="200"></line>
+      <line x1="180" y1="130" x2="40" y2="180"></line>
+      <line x1="40" y1="180" x2="170" y2="240"></line>
+      <line x1="290" y1="200" x2="340" y2="80"></line>
+      <line x1="290" y1="200" x2="170" y2="240"></line>
+    </g>
+
+    
+    <g>
+      <circle cx="60" cy="60" r="5" fill="url(#nodeGrad)" filter="url(#nodeGlow)" opacity="0.4"></circle>
+      <circle cx="60" cy="60" r="4" fill="#7c8cff"></circle>
+      <circle cx="60" cy="60" r="1.5" fill="#0a0a0f"></circle>
+
+      <circle cx="200" cy="30" r="6" fill="url(#nodeGrad)" filter="url(#nodeGlow)" opacity="0.5"></circle>
+      <circle cx="200" cy="30" r="5" fill="#a78bfa"></circle>
+      <circle cx="200" cy="30" r="2" fill="#0a0a0f"></circle>
+
+      <circle cx="180" cy="130" r="9" fill="url(#nodeGrad)" filter="url(#nodeGlow)" opacity="0.6"></circle>
+      <circle cx="180" cy="130" r="8" fill="#7c8cff"></circle>
+      <circle cx="180" cy="130" r="3" fill="#0a0a0f"></circle>
+
+      <circle cx="340" cy="80" r="5" fill="url(#nodeGrad)" filter="url(#nodeGlow)" opacity="0.4"></circle>
+      <circle cx="340" cy="80" r="4" fill="#a78bfa"></circle>
+      <circle cx="340" cy="80" r="1.5" fill="#0a0a0f"></circle>
+
+      <circle cx="40" cy="180" r="5" fill="url(#nodeGrad)" filter="url(#nodeGlow)" opacity="0.4"></circle>
+      <circle cx="40" cy="180" r="4" fill="#7c8cff"></circle>
+      <circle cx="40" cy="180" r="1.5" fill="#0a0a0f"></circle>
+
+      <circle cx="290" cy="200" r="6" fill="url(#nodeGrad)" filter="url(#nodeGlow)" opacity="0.5"></circle>
+      <circle cx="290" cy="200" r="5" fill="#a78bfa"></circle>
+      <circle cx="290" cy="200" r="2" fill="#0a0a0f"></circle>
+
+      <circle cx="170" cy="240" r="5" fill="url(#nodeGrad)" filter="url(#nodeGlow)" opacity="0.4"></circle>
+      <circle cx="170" cy="240" r="4" fill="#7c8cff"></circle>
+      <circle cx="170" cy="240" r="1.5" fill="#0a0a0f"></circle>
+    </g>
+
+    
+    <g font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="9" fill="#5d6080" letter-spacing="0.5">
+      <text x="72" y="63">gateway</text>
+      <text x="212" y="33">auth</text>
+      <text x="196" y="133">services</text>
+      <text x="352" y="83">queue</text>
+      <text x="52" y="183">cache</text>
+      <text x="302" y="203">data</text>
+      <text x="182" y="243">analytics</text>
+    </g>
+  </g>
+
+  
+  <g font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="10" fill="#3d3f56" letter-spacing="2">
+    <text x="1216" y="420" text-anchor="end">v2026.05</text>
+  </g>
+  <line x1="1064" y1="416" x2="1156" y2="416" stroke="#3d3f56" stroke-width="0.8"></line>
+</svg>
